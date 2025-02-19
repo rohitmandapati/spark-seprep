@@ -2,6 +2,7 @@
 
 Hi, my name is Rohit Mandapati and I am a freshman at BU. My favorite language is Java because it's level of complexity is a great launching ground to learn other languages, and mastering it lets you become fluent in many principles that are crucial to learning to program.
 
+### Example Code Snippet
 ```
 public class Test {
 
@@ -28,4 +29,6 @@ public class Test {
 }
 ```
 
-### This code snippet reverses a linked list data structure.
+### Explanation
+
+This code snippet reverses a linked list data structure.
